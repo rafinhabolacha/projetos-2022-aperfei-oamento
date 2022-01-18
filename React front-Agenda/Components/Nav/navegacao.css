@@ -1,0 +1,25 @@
+
+nav{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    max-width: 1200px;
+    margin: auto;  
+    background: rgb(150, 150, 226);
+}
+ul{
+    display: flex;
+    background: rgb(150, 150, 226);
+    margin: auto;  
+}
+li{
+    background: rgb(74, 74, 223);
+   margin: 15px;
+   font-size:  15px;
+   padding: 10px;
+   border-radius: 10px;
+}
+li:hover{
+    background-color: rgb(228, 167, 92);
+    color: rgb(197, 183, 173);
+}

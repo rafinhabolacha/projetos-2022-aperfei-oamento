@@ -1,0 +1,43 @@
+section{
+    background: darkgray;
+    max-width: 1200px;
+}
+#container{
+    display: flex;
+    justify-content:center;
+    justify-items: center;
+     margin: auto;
+   
+}
+table{
+    display: block;
+    justify-content:center;
+    justify-items: center;
+    max-width: 1200px;
+    margin: auto;
+   
+}
+#coluna{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  
+}
+#linha{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+button{
+    margin-right: 15px;
+    border:none;
+    background: none;
+    
+}
+
+button:hover{
+    background:none;
+    color:darkgray;
+}
